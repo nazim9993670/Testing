@@ -14,9 +14,6 @@
 	<name>Spring_Boot_Build_and_Test_Pipeline</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11.0.1</java.version>
-	</properties>
-	<properties>
     <maven.compiler.source>11.0.1</maven.compiler.source> <!-- Set to a compatible Java version -->
     <maven.compiler.target>11.0.1</maven.compiler.target> <!-- Set to a compatible Java version -->
 </properties>
