@@ -3,6 +3,7 @@ pipeline {
     tools {
 
         maven 'maven_home'
+        jdk 'java_home'
     }
     stages {
         stage('Checkout') {
